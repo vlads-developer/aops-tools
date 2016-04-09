@@ -1,0 +1,8 @@
+#aops-tools-metabox-collapsible h3 a {
+	text-decoration: none;
+	color: #111;
+}
+
+#aops-tools-metabox {
+	background-color: #FFE599;
+}
